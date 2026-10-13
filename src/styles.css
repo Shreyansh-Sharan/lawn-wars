@@ -1456,3 +1456,7 @@ p {
 .hub-overlay .hero-key .art {
   opacity: 1;
 }
+
+.ck-menu-copy .page-lead {
+  color: rgba(248, 250, 252, 0.88);
+}

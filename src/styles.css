@@ -1434,10 +1434,6 @@ p {
   }
 }
 
-.drive-hud {
-  bottom: 150px;
-}
-
 .hub-tiles .tile:hover {
   transform: scale(1.08);
 }

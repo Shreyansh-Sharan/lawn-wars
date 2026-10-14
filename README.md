@@ -2,7 +2,7 @@
 
 A first-person 4v4 family-vs-family suburban brawler: sixty seconds to barricade doors and lay traps, then eight minutes to raid the rival house with garden tools and thrown junk, breaking their tagged valuables for points. Six original heroes with ultimates, ladders to the balcony, two streets (a sunny cul-de-sac and a snowy motor lodge) by day or night, Brawl and a co-op Robot Invasion. Coins, hero levels, perks and house customisation are saved in your browser.
 
-Built with Three.js · First-person · Destructible houses. Part of [Shreyansh Sharan's portfolio](https://shreyansh-sharan.github.io/shreyanshsharan-portfolio/), split into its own site.
+Built with Three.js · First-person · Destructible houses. Part of [Shreyansh Sharan's portfolio](https://shreyanshsharan.com/), split into its own site.
 
 ```bash
 npm install
